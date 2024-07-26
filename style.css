@@ -502,12 +502,12 @@ color:white;
     .text{
         font-size:3em;
         margin-left:15%;
-        margin-top:15%;
-
-    }  
+        margin-top:15%;                 
+        color:rgba(230, 54, 0, 0.925);
+    }
     .text2{
         font-size:1em;
-        margin-left:%;
+        color:gainsboro;
     }
     .text4{
         display: none;
